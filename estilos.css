@@ -1,0 +1,66 @@
+    body {
+        position: center;
+        justify-content: center;
+        background-color: teal;
+    }
+    
+    .conteiner {
+        display: inline-block;
+        background-image: url(https://img.freepik.com/foto-gratis/textura-placa-metal_1048-2443.jpg?size=338&ext=jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #boton {
+        display: inline-block;
+        min-width: 100px;
+    }
+    
+    header {
+        font-size: 10px;
+        width: 500px;
+        color: white;
+        height: 50px;
+        font-family: monospace;
+        background-image: url(https://img.freepik.com/foto-gratis/textura-placa-metal_1048-2443.jpg?size=338&ext=jpg);
+    }
+    
+    button {
+        display: table-row;
+    }
+    
+    section {
+        width: 500px;
+    }
+    
+    .col-sm-4 {
+        text-align: center;
+    }
+    
+    .col-sm-5 {
+        text-align: center;
+    }
+    
+    #piso {
+        text-align: center;
+    }
+    
+    #piso:hover {
+        border-radius: 50%;
+    }
+    
+    #dto {
+        text-align: center;
+    }
+    
+    #dto:hover {
+        border-radius: 50%;
+    }
+    
+    #borrar:hover {
+        border-radius: 50%;
+    }
+    
+    #llamar:hover {
+        border-radius: 50%;
+    }
